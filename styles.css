@@ -1,0 +1,9 @@
+#chat.ng-hide-remove{
+    animation: 1s fadeIn ease;
+}
+
+.messages{
+    height: 400px;
+    overflow: auto;
+    overflow-x: hidden;
+}
